@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:0 ,BBC Radio 1
+#EXTINF:-1 e,BBC Radio 1
 
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
 
-#EXTINF:0 ,BBC Radio 2
+#EXTINF:-1 ,BBC Radio 2
 
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
 
-#EXTINF:0 ,BBC Radio 4 Extra
+#EXTINF:-1 ,BBC Radio 4 Extra
 
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8
 
-#EXTINF:0 ,BBC Radio 4
+#EXTINF:-1 ,BBC Radio 4
 
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.m3u8
 
-#EXTINF:0 ,BBC Radio 5
+#EXTINF:-1 ,BBC Radio 5
 
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
 
